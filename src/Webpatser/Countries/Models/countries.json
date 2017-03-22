@@ -2214,6 +2214,25 @@
       "currency_decimals":"0",
       "flag":"KR.png"
    },
+   "411":{
+      "capital":"Prishtina",
+      "citizenship":"Kosovan",
+      "country-code":"411",
+      "currency":"Euro",
+      "currency_code":"EUR",
+      "currency_sub_unit":"Cent",
+      "full_name":"Republic of Kosovo",
+      "iso_3166_2":"XK",
+      "iso_3166_3":"XK",
+      "name":"Kosovo",
+      "region-code":"411",
+      "sub-region-code":"010",
+      "eea":false,
+      "calling_code":"383",
+      "currency_symbol":"&euro;",
+      "currency_decimals":"2",
+      "flag":"KS.png"
+   },
    "414":{
       "capital":"Kuwait City",
       "citizenship":"Kuwaiti",
